@@ -7,11 +7,11 @@ It uses `jason` files securely to store the password, thus minimizing the latenc
 # Screenshots
 
 ### Screen 1
-![screen one](/screenshots/1.png)
+![screen one](screenshots/1.png)
 ### Screen 2
-![screen two](/screenshots/2.png)
+![screen two](screenshots/2.png)
 ### Screen 3
-![screen three](/screenshots/3.png)
+![screen three](screenshots/3.png)
 
 ## Libraries and packages used
 ```
